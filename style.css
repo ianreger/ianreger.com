@@ -92,19 +92,9 @@ body{
 }
 
 .links img {
-
-    margin-top: 5%;
+    margin-top: 2%;
     height: 30px;
     width: 30px;
-}
-
-.footer {
-    padding: 10px;
-    text-align: center;
-    background: #dbdad5;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
 
 .row-resume .education{
@@ -155,3 +145,11 @@ body{
 #roles {
     flex: 50%;
 } 
+
+.footer {
+    text-align: center;
+    background: #dbdad5;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
